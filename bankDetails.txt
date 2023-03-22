@@ -12,8 +12,8 @@ public static void main(String[] args){
  BankDetails b = new BankDetails();
 	b.bank();
 
-	System.out.println("Program is Completed");
 	System.out.println("Hello World");
+	//This code is Enough
 }
 
 }
