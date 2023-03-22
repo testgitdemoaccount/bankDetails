@@ -12,7 +12,7 @@ public static void main(String[] args){
  BankDetails b = new BankDetails();
 	b.bank();
 
-	System.out.println("Hello World");
+
 
 	
 
